@@ -4,7 +4,7 @@
 
 ## U-stage
 
-[Python Basics For AI](./Python basics for AI)
+[Python Basics For AI](./Python-basics-for-AI)
 
 [AI를 위한 수학]()
 
