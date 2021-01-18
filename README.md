@@ -6,7 +6,7 @@
 
 [Python Basics For AI](./Python-basics-for-AI)
 
-[AI를 위한 수학]()
+[AI를 위한 수학](./Math-for-AI)
 
 [Deep Learning Basics]()
 
