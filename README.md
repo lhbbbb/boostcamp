@@ -4,11 +4,11 @@
 
 ## U-stage
 
-[Python Basics For AI](./Python-basics-for-AI)
+[Python Basics For AI](./Python%20basics%20for%20AI)
 
-[AI를 위한 수학](./Math-for-AI)
+[AI를 위한 수학](./Math%20for%20AI)
 
-[Deep Learning Basics]()
+[Deep Learning Basics](./Deep%20Learning%20Basics)
 
 [기초 이론과 최신 연구 동향 (1) 자연어 처리]()
 
